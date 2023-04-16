@@ -30,4 +30,4 @@ https://github.com/atenreiro/opensquat
 
 ### DISCLAIMER
 
-The creation of these lists is an entirely automated process, if you find that a domain that you own is on this list, I would recommend contacting the authors of the resources above.
+The creation of these lists is an entirely automated process. If you find that a domain that you own is on this list, please refer to the above links.
