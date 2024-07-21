@@ -3,7 +3,6 @@
 0b1.de
 0bi.de
 0bl.de
-0bsproject.com
 0chatgpt.com
 0di.de
 0ff1ce.com
@@ -18,6 +17,7 @@
 0ut1ook.com
 0uti00k.com
 0utl00k.com
+0utl0ok.com
 0utlo0k.com
 0utlook.com
 0utlook.de
@@ -163,6 +163,7 @@
 4shsred.com
 4swhared.com
 4witter.com
+5elekom.de
 5iktok.com
 5k.de
 5roblox.com
@@ -306,6 +307,7 @@ a3.net
 a3k.com
 a4dc22109422v748d.christmas
 a5.net
+a8iai94j4m.lol
 a8rbnb.com
 a9ol.com
 a9rbnb.com
@@ -381,7 +383,6 @@ aboht.com
 aboiut.com
 aboot.me
 aboout.com
-aboqt.com
 abot.com
 abot.me
 abotu.com
@@ -418,6 +419,7 @@ aboutt.me
 aboutu.com
 aboutv.com
 aboutx.com
+abouty.com
 aboutz.com
 aboutz.me
 abouu.com
@@ -793,7 +795,6 @@ airbnf.com
 airbng.com
 airbnh.com
 airbnhb.com
-airbnib.com
 airbnj.com
 airbnn.com
 airbnnb.com
@@ -890,6 +891,7 @@ al3xa.com
 al8express.com
 al8iexpress.com
 al9ibaba.com
+al9iexpress.com
 ala.ms
 alababa.com
 aladel.net
@@ -1128,7 +1130,6 @@ alibsba.com
 alibvaba.com
 alibwba.com
 alibzba.com
-alicaba.com
 alicxpress.com
 alid-nord.de
 alid-sued.de
@@ -1165,7 +1166,6 @@ aliex0ress.com
 aliexcpress.com
 aliexdpress.com
 aliexlress.com
-aliexmpress.com
 aliexopress.com
 aliexoress.com
 aliexp0ress.com
@@ -1224,6 +1224,7 @@ aliexpressk.com
 aliexpressl.com
 aliexpressm.com
 aliexpressn.com
+aliexpressr.com
 aliexpresss.com
 aliexpressu.com
 aliexpressw.com
@@ -1289,6 +1290,7 @@ alipat.com
 alipau.com
 alipax.com
 alipaycom.com
+alipayo.com
 alipayt.com
 alipayx.com
 alipey.com
@@ -1362,7 +1364,6 @@ aloibaba.com
 aloiexpress.com
 aloipay.com
 alok.de
-alol.com
 alonexo.com
 alopay.com
 aloxa.com
@@ -1644,6 +1645,7 @@ amazony.com
 amazonz.com
 amazonz.de
 amazoo.com
+amazoo.de
 amazoon.com
 amazoon.de
 amazopn.com
@@ -1898,7 +1900,6 @@ answors.com
 answrs.com
 anszwers.com
 anti-bot-chillbearclub.deno.dev
-antibot-protect.xyz
 antibot-protection.online
 antibot-verification.xyz
 antibot.cc
@@ -1929,6 +1930,7 @@ aoic.de
 aoiexpress.com
 aoipay.com
 aoj.de
+aojhrv2hhm.lol
 aok.com
 aoka.de
 aokb.de
@@ -2040,7 +2042,6 @@ apl.com
 aple.com
 aplexa.com
 aplipay.com
-aplle.com
 aplpe.com
 aplple.com
 apmazon.com
@@ -2158,6 +2159,7 @@ apple.com.black
 apple.com.blog
 apple.com.bo
 apple.com.boats
+apple.com.bond
 apple.com.boston
 apple.com.boutique
 apple.com.br
@@ -2600,6 +2602,7 @@ apple.watch
 apple.website
 apple.wf
 apple.work
+apple.ws
 apple.xyz
 apple.yt
 apple0.com
@@ -2744,6 +2747,7 @@ ardhive.org
 ardidas.com
 ardobe.com
 arechive.org
+areencubs.tn
 arenaplaycoin.com
 arhcive.org
 aribnb.com
@@ -3033,6 +3037,7 @@ azurr.com
 azurre.com
 azurs.com
 azurte.com
+azuru.com
 azurw.com
 azurz.com
 azuse.com
@@ -3134,7 +3139,6 @@ balthazar-airdrop.pages.dev
 bambumasuk.lol
 ban.de
 banance.com
-bandit-camp.com
 bang.com
 banh.de
 banhn.de
@@ -3265,7 +3269,6 @@ betonred.lol
 betzner.com
 beucher.de
 bewe.de
-bexdaotrade.com
 bghyty.firebaseapp.com
 bghyty.web.app
 bh1.com
@@ -3294,7 +3297,6 @@ bibng.com
 bicard.kg
 bicurdex.com
 biecher.de
-bifance.com
 bifg.com
 big.com
 big.pp.ru
@@ -3435,6 +3437,7 @@ binhance.com
 binhg.com
 binince.com
 binjance.com
+binjg.com
 binmg.com
 binnace.com
 binnance.com
@@ -3489,7 +3492,6 @@ bitrock.app
 bitsupportfix.pages.dev
 bittdoge.com
 bittook.com
-bitxam.com
 biunance.com
 biung.com
 biverr.com
@@ -3539,6 +3541,7 @@ blockchainsyncs.pages.dev
 blockchaiweb.pages.dev
 blockdexresolve.pages.dev
 blockdexsolution.pages.dev
+blockver.000webhostapp.com
 blockverse-mainet.vercel.app
 bloking.com
 blooking.com
@@ -3550,9 +3553,9 @@ bloxflip.online
 bloxguard.org
 bloxpromo.com
 bloxpuzzle.com
-bloxsafety.com
 bloxsploit.xyz
 bloxtools.me
+bloxtools.top
 bloxware.org
 bloxybot.com
 bloxytools.net
@@ -3713,7 +3716,6 @@ boolkimg.com
 boomdust.lol
 booming.com
 boomking.com
-boooing.com
 boooking.com
 booom.com
 boop.ch
@@ -3874,6 +3876,7 @@ bulla.at
 bullcoin24.com
 bumexbit.com
 bunance.com
+bundi.de
 bundle.valplays.com
 bundlevalorant.com
 bung.com
@@ -3906,11 +3909,11 @@ c00p.ch
 c0inbase.com
 c0oinbase.com
 c1h1.de
+c3v24vfc1k.lol
 c54.pics
 c9inbase.com
 c9oinbase.com
 caatgpt.com
-cabello.lol
 cacauxy.lol
 cacebook.com
 cacptha.bot
@@ -3958,6 +3961,7 @@ captcha.chat
 captcha.group
 captcha.guilds.id
 captcha.is
+captcha.ist
 captcha.life
 captcha.llc
 captcha.monster
@@ -3997,7 +4001,6 @@ cashout.monster
 casinobabki.lol
 catdoll.lol
 catdoll.pics
-catgpt.com
 cathgpt.com
 catsnthings.fun
 caufland.de
@@ -4014,9 +4017,9 @@ cconrad.de
 cday.de
 cdn-discordapp.co
 cdobe.com
-cedex.com
 cek-selengkapnya.biz.id
 centralheat.me
+ceop.ch
 cerah88gas.lol
 cerah88w.lol
 cfatgpt.com
@@ -4081,7 +4084,6 @@ chatbgpt.com
 chatbpt.com
 chatcpt.com
 chatdpt.com
-chateet.com
 chategpt.com
 chatept.com
 chatfgpt.com
@@ -4179,6 +4181,7 @@ chatgpt.asia
 chatgpt.associates
 chatgpt.at
 chatgpt.attorney
+chatgpt.au
 chatgpt.auction
 chatgpt.audio
 chatgpt.authgear-staging.com
@@ -4262,7 +4265,6 @@ chatgpt.co.com
 chatgpt.coach
 chatgpt.codes
 chatgpt.codespot.com
-chatgpt.coffee
 chatgpt.college
 chatgpt.com.academy
 chatgpt.com.accountant
@@ -4395,7 +4397,6 @@ chatgpt.com.gallery
 chatgpt.com.games
 chatgpt.com.garden
 chatgpt.com.gay
-chatgpt.com.gdn
 chatgpt.com.gent
 chatgpt.com.gifts
 chatgpt.com.gives
@@ -4968,6 +4969,7 @@ chatgptg.com
 chatgpth.com
 chatgpti.com
 chatgptj.com
+chatgptk.com
 chatgptl.com
 chatgptm.com
 chatgptn.com
@@ -4977,6 +4979,7 @@ chatgptq.com
 chatgptr.com
 chatgpts.com
 chatgptt.com
+chatgptu.com
 chatgptv.com
 chatgptw.com
 chatgptx.com
@@ -5072,7 +5075,6 @@ cheefkoch.de
 chefgkoch.de
 chefioch.de
 chefjoch.de
-chefk0ch.de
 chefkich.de
 chefkioch.de
 chefklch.de
@@ -5120,7 +5122,6 @@ chpatgpt.com
 chqatgpt.com
 chqtgpt.com
 chrefkoch.de
-chrfkoch.de
 chronosnft.co
 chrtgpt.com
 chsatgpt.com
@@ -5248,7 +5249,6 @@ co9inbase.com
 co9nbase.com
 coap.ch
 coatgpt.com
-cobgstar.de
 cobngstar.de
 cobnrad.de
 cobrad.de
@@ -5451,13 +5451,11 @@ confad.de
 confgstar.de
 confrad.de
 cong-star.de
-cong3tar.de
 congastar.de
 congatar.de
 congdstar.de
 congdtar.de
 congestar.de
-congetar.de
 congfstar.de
 conggstar.de
 conghstar.de
@@ -5466,17 +5464,17 @@ congs.tar.de
 congs5ar.de
 congs6ar.de
 congsar.de
+congsatar.de
 congsatr.de
 congsdtar.de
 congsfar.de
+congsgar.de
 congsrar.de
 congsrtar.de
 congsstar.de
 congsta.de
-congsta4.de
 congsta5.de
 congstaar.de
-congstae.de
 congstaf.de
 congstare.de
 congstarr.de
@@ -5498,6 +5496,7 @@ congztar.de
 conhgstar.de
 conhstar.de
 conjrad.de
+conmgstar.de
 connect-hype.com
 connect-twitch.tv
 connect.coinswap-join.com
@@ -5514,6 +5513,7 @@ conqstar.de
 conra.de
 conraad.de
 conrac.de
+conrad3.de
 conradd.de
 conradde.de
 conrade.de
@@ -5525,6 +5525,7 @@ conradw.de
 conrady.de
 conrae.de
 conraf.de
+conraqd.de
 conras.de
 conrat.de
 conrax.de
@@ -5553,6 +5554,7 @@ continue-site.website
 contrad.de
 contstar.de
 convstar.de
+conzstar.de
 coogle.de
 cooking.com
 cool.ch
@@ -5571,7 +5573,6 @@ coopy.ch
 cop.ch
 copacobbana99l.lol
 copinbase.com
-copngstar.de
 copo.ch
 copp.ch
 copyclothing.link
@@ -5623,7 +5624,6 @@ cryptosuppurtdesk.surge.sh
 cs-go-roll.com
 cs-source2.gifts
 cs-twitch.tv
-cs-twitchs.tv
 cs2-beta.world
 cs2-blast.com
 cs2-blasts.com
@@ -5706,6 +5706,7 @@ csgopolygon.ru
 csgoroll.com
 csgotwitch.tv
 csgotwitchs.tv
+csgotwltch.tv
 csk-computer.com
 csl-c.omputer.com
 csl-co.mputer.com
@@ -5715,7 +5716,6 @@ cslcomputer.com
 csmoney-drop.buzz
 csnavibet.com
 cspattern.com
-cstwitchs.tv
 cstwltchs.tv
 csxshell.com
 ctek.ee
@@ -5738,6 +5738,7 @@ cvhatgpt.com
 cwqce21c321c1cfrqhrh21ex.pages.dev
 cxatgpt.com
 cxhatgpt.com
+cxs4iiiqmk.lol
 cyatgpt.com
 cyberchoke.net
 cyhatgpt.com
@@ -6024,12 +6025,10 @@ dh1.com
 dh1.de
 dhalia.de
 dhatgpt.com
-dhb.christmas
 dhbl.com
 dhbl.de
 dhd.com
 dhd.de
-dhf.christmas
 dhgl.com
 dhgl.de
 dhh.com
@@ -6097,7 +6096,6 @@ dhp.com
 dhp.de
 dhul.com
 dhul.de
-dhx.christmas
 dhyl.com
 dhyl.de
 dhzl.com
@@ -6226,6 +6224,7 @@ disco4rd.com
 disco5d.com
 disco5rd.com
 disco9rdapp.com
+discoard.com
 discocock.herokuapp.com
 discocrd.com
 discod.com
@@ -6243,6 +6242,7 @@ discofrd.com
 discoird.com
 discokrd.com
 discolrd.com
+discomd.com
 discond.com
 discoord.com
 discoords.com
@@ -6263,6 +6263,7 @@ discord-account.repl.co
 discord-accounts.com
 discord-accounts.ru
 discord-airdrop.com
+discord-app.co
 discord-app.co.uk
 discord-app.com
 discord-app.info
@@ -6316,7 +6317,6 @@ discord.ax
 discord.beta-profile.app
 discord.beta-profile.com
 discord.biz
-discord.cc
 discord.ceo
 discord.cloud
 discord.cm
@@ -6523,6 +6523,7 @@ discordsez.com
 discordsite.repl.co
 discordstatistics.com
 discordsteam.com
+discordsteamf.com
 discordsteami.com
 discordsteamj.com
 discordsteamr.com
@@ -6538,6 +6539,7 @@ discordtw.com
 discordu.com
 discordv.com
 discordverify.pages.dev
+discordw.com
 discordxsteam-partner.github.io
 discordxsteam-partners.com
 discordzoom.com
@@ -6601,12 +6603,10 @@ disrcods-gift.com
 disrocd.com
 disscord.com
 disscord.xyz
-dissqrdapp.com
 disvcord.com
 disvord.com
 diswcord.com
 disxcord.com
-disxord.com
 diszcord.com
 diucord.js.org
 diuglas.de
@@ -6669,7 +6669,6 @@ dkrill.com
 dkuglas.de
 dkv.de
 dl.de
-dlapostefra.lol
 dlaschenpost.de
 dlcsorcl.com
 dlcsord.xyz
@@ -7045,7 +7044,7 @@ dynobot.com
 dynobot.eu
 dynobot.link
 dynobot.me
-dynobot.uk
+dynobot.pl
 dynocaptchabot.com
 dynocaptchabot.io
 dynoredirect.xyz
@@ -7119,6 +7118,7 @@ ebaqy.de
 ebas.com
 ebas.de
 ebasy.com
+ebat.com
 ebat.de
 ebau-kleinanzeigen.de
 ebau.com
@@ -7219,6 +7219,7 @@ ebays.com
 ebays.de
 ebayt.com
 ebayu.com
+ebayv.com
 ebayw.de
 ebayx.com
 ebayx.de
@@ -7246,13 +7247,11 @@ ebiy.de
 ebmin.com
 ebnay.com
 ebnay.de
-ebout.com
 eboy.com
 eboy.de
 ebqay.com
 ebqay.de
 ebqy-kleinanzeigen.de
-ebqy.com
 ebqy.de
 ebsay.de
 ebsproject.com
@@ -7455,7 +7454,6 @@ emazon.com
 emazon.de
 emicgames.com
 emoga.de
-emperes.com
 empicgames.com
 emtec.at
 enay-kleinanzeigen.de
@@ -7466,7 +7464,6 @@ enbay.com
 enbay.de
 eneva.com
 eneverals.biz
-enginemodal.lol
 enmalzahlung200.de
 enny.de
 enstagram.com
@@ -7503,7 +7500,6 @@ epcigames.com
 epenai.com
 epic-games.com
 epicagmes.com
-epicbames.com
 epiccames.com
 epiccgames.com
 epicg-ames.com
@@ -7559,6 +7555,7 @@ epichgames.com
 epicnitro.xyz
 epicqames.com
 epictames.com
+epictgames.com
 epicyames.com
 epiczames.com
 epidgames.com
@@ -7651,6 +7648,7 @@ eticgames.com
 etidalat.lol
 etiealat.lol
 etinalat.lol
+etlekom.de
 etqsy.com
 etqy.com
 etrsy.com
@@ -7885,6 +7883,7 @@ fadebook.com
 fadsfsafasfsaf.herokuapp.com
 faebook.com
 fafcebook.com
+fagebook.com
 fahn.de
 fajar4dz.lol
 fajartogelz.lol
@@ -7935,7 +7934,6 @@ fcebook.com
 fdedex.com
 fdeex.com
 fdiscord.com
-fe4dex.com
 featu.re
 febex.com
 feblex.com
@@ -8043,6 +8041,7 @@ fiscord.com
 fiterr.com
 fithub.com
 fiuverr.com
+fiv-err.com
 fiv3rr.com
 fivberr.com
 fivcerr.com
@@ -8077,6 +8076,7 @@ fiverrs.com
 fiverrt.com
 fiverrv.com
 fiverrx.com
+fiverry.com
 fiverrz.com
 fivers.com
 fivert.com
@@ -8235,7 +8235,6 @@ folaschenpost.de
 folksbank.de
 fond-sovest.ru
 fongstar.de
-fonrad.de
 food.eu
 foodpoint.ee
 foogle.com
@@ -8269,7 +8268,6 @@ fportal.com
 fportal.de
 fqacebook.com
 fqcebook.com
-fr.ee.at
 fr3e-verify-g1ft-2024.ru
 frack.ch
 frailhelp.pics
@@ -8479,11 +8477,13 @@ gclnk.com
 gcprod.kz
 gdb.lol
 gdf.de
+gdiscord.com
 geb.de
 gebhrenfrei.de
 geekotg.com
 gegen-harz.de
 gegenhartz.de
+geithub.com
 gelekom.de
 gemini-captcha.com
 gemotest.kg
@@ -8528,6 +8528,7 @@ gforce.kz
 gg-portal.com
 gg.gg
 ggboom.ru
+ggdrip.ru
 gghacks.com
 ggmx.de
 ggmx.net
@@ -8538,6 +8539,7 @@ ggportal.com
 ghalia.de
 ghatgpt.com
 ghi.ee
+ghjmwl8lr.pics
 gi.thub.com
 gi4hub.com
 gi5hub.com
@@ -8618,6 +8620,7 @@ githubn.com
 githubo.com
 githubq.com
 githubr.com
+githubs.com
 githubt.com
 githubu.com
 githuc.com
@@ -8681,7 +8684,6 @@ glaxus.ch
 glaxus.de
 glbltraffic.com
 glc.de
-gldo.lol
 gleam.blog
 glmx.de
 glmx.net
@@ -8858,6 +8860,7 @@ googlee.com
 googlee.de
 googlef.de
 googleg.com
+googleg.de
 googleh.com
 googlei.com
 googlei.de
@@ -9032,7 +9035,6 @@ grovery.com
 groverz.com
 groves.com
 grovet.com
-grovez.com
 grovir.com
 grovr.com
 grovver.com
@@ -9066,7 +9068,6 @@ gutlook.com
 guxes.com
 gvffn.lol
 gvmvw.lol
-gwee41x.lol
 gwitch.tv
 gwitter.com
 gx.de
@@ -9079,6 +9080,7 @@ h-mediatradys29.pics
 h-mediatradys30.pics
 h-plus.de
 h-portal.com
+h-portal.de
 h-se.de
 h.aveibeenpwned.com
 h.d-plus.de
@@ -9138,6 +9140,7 @@ haveabeenpwned.com
 haveeibeenpwned.com
 havei-beenpwned.com
 havei.beenpwned.com
+haveibbeenpwned.com
 haveibeebpwned.com
 haveibeempwned.com
 haveibeen-pwned.com
@@ -9189,7 +9192,6 @@ haveinbeenpwned.com
 haveineenpwned.com
 haveiveenpwned.com
 havelbeenpwned.com
-haveobeenpwned.com
 haveubeenpwned.com
 havibeenpwned.com
 haviebeenpwned.com
@@ -9218,6 +9220,7 @@ he.de
 he.tzner.com
 headingeys.lol
 healthystyle.info
+heartmedia.biz
 hechtle.de
 hedraguard.web.app
 hedraguards.web.app
@@ -9258,6 +9261,7 @@ hellpfresh.de
 helofresh.de
 helpash.org
 helpdesk-79a46.web.app
+helthlife.kz
 hentai-tube.me
 hep.com
 hertzner.com
@@ -10005,7 +10009,6 @@ isk.com
 islence.pics
 isnerot.pics
 isntagram.com
-israelpot.lol
 istagram.com
 istant-gaming.com
 itersport.de
@@ -10069,6 +10072,7 @@ join-beta.eu
 join-captcha-bot.com
 join-coinswap.com
 join-hypesquad-events.house.com
+join-hypesquad.000webhostapp.com
 join-moderator-school.com
 join-nabu-faces.com
 join-nabu.com
@@ -10211,7 +10215,6 @@ key-dr0p.com
 keydrop.org.ru
 kffice.com
 kharna.com
-khatgpt.com
 ki-fi.com
 kia-altyncar.kz
 kia4dz.lol
@@ -10261,6 +10264,7 @@ klarnax.com
 klarnaz.com
 klarni.com
 klarno.com
+klarns.com
 klarny.com
 klarra.com
 klarrna.com
@@ -10302,7 +10306,6 @@ kokeyeva.kz
 kolarna.com
 komfi.com
 kondoomikeskus.ee
-kongstar.de
 konicpirg.com
 konrad.de
 kontabo.de
@@ -10569,6 +10572,7 @@ life.com
 lifeerando.de
 liferando.de
 lifkedin.com
+lifl.de
 lifve.com
 liga178situs.lol
 lige.com
@@ -10586,6 +10590,7 @@ lihkedin.com
 lihnkedin.com
 liidl.de
 liieferando.de
+liinkedin.com
 liive.com
 lijnkedin.com
 lijve.com
@@ -10628,6 +10633,7 @@ linkbucks.com
 linkddin.com
 linkdedin.com
 linkdein.com
+linke-din.com
 linke3din.com
 linkebim.com
 linkebin.com
@@ -10648,7 +10654,6 @@ linkedhn.com
 linkedi.com
 linkedi8n.com
 linkedih.com
-linkediin.com
 linkedij.com
 linkedijn.com
 linkedim.com
@@ -10660,6 +10665,7 @@ linkedin8.com
 linkedincom.com
 linkedind.com
 linkedine.com
+linkedinf.com
 linkeding.com
 linkedini.com
 linkedinj.com
@@ -10692,7 +10698,6 @@ linkeedin.com
 linkeein.com
 linkefdin.com
 linkefin.com
-linkein.com
 linkelin.com
 linkerdin.com
 linkerin.com
@@ -10742,6 +10747,7 @@ listingopensea.org
 lite.com
 litl.de
 litrado.de
+liudl.de
 liunkedin.com
 liuve.com
 liv-e.com
@@ -11033,6 +11039,7 @@ mazon.com
 mazon.de
 mbam.net
 mbay.com
+mbenzbun2n.lol
 mbga.lol
 mbi.de
 mbile.de
@@ -11184,7 +11191,6 @@ mgea.lol
 mgfv.lol
 mggi.lol
 mggt.lol
-mgifts.net
 mgjn.lol
 mgk4.lol
 mgko.lol
@@ -11221,6 +11227,7 @@ mgy2.lol
 mgyg.lol
 mgyu.lol
 mgzx.lol
+mh9gkugdmn.lol
 mham.net
 mhcrosoft.com
 mheller.de
@@ -11377,7 +11384,6 @@ microsoift.com
 microsokft.com
 microsolft.com
 microsooft.com
-microsooft.de
 microsopft.com
 microsorft.de
 microsort.com
@@ -11825,7 +11831,6 @@ monbile.de
 monecraft.net
 monile.de
 monitoring-servers-rust.pro
-monju.id
 monoreward.com
 monstronaut.lol
 monya.lol
@@ -11837,7 +11842,6 @@ moonlitwilderness.lol
 mooo.com
 mootoririke.ee
 mopbile.de
-morelodi.lol
 movbile.de
 moviesboys.com
 movile.de
@@ -11911,7 +11915,6 @@ multiadblock.com
 multibit.events
 multibits.trading
 multisport.tn
-multisyncvalidator.com
 multiversechainx.com
 munecraft.net
 murller.de
@@ -12077,6 +12080,7 @@ n-ike.com
 n-tradesmedia20.pics
 n-tradesmedia21.pics
 n.otebooksbilliger.de
+n01.biz
 n06.biz
 n1ke.com
 n3etflix.com
@@ -12137,7 +12141,6 @@ ndeva.com
 ndtflix.com
 ne-tflix.com
 ne.tflix.com
-ne12.biz
 ne3tflix.com
 ne4flix.com
 ne4tflix.com
@@ -12416,7 +12419,6 @@ niki.com
 nikie.com
 nikje.com
 nikke.com
-nikle.com
 nikm.com
 nikme.com
 niko.com
@@ -12498,6 +12500,7 @@ nodechains.pages.dev
 nodesappfix-io.pages.dev
 noebooksbilliger.de
 noeva.com
+noike.com
 noitebooksbilliger.de
 noke.com
 nokia-lifestyle.ru
@@ -12707,7 +12710,6 @@ obsporject.com
 obspr.oject.com
 obsprject.com
 obsproect.com
-obsproiect.com
 obsprojcct.com
 obsprojcet.com
 obsprojct.com
@@ -12858,7 +12860,6 @@ offixce.com
 offixe.com
 offjce.com
 offlce.com
-offled.lol
 offlee.com
 offmce.com
 offoice.com
@@ -13013,6 +13014,7 @@ oneplace.lol
 onergfx.xyz
 onetouch7.info
 onfice.com
+ongstar.de
 oni.de
 onlineline.lol
 onlinemarketing.lol
@@ -13242,6 +13244,7 @@ orproject.org
 orsproject.com
 orto.de
 ortto.de
+osbproject.com
 osk.com
 osproject.com
 osteo.de
@@ -13376,7 +13379,6 @@ outllook.de
 outlo0k.com
 outlo0ok.com
 outlo9k.com
-outlo9ok.com
 outloak.com
 outloek.com
 outloik.com
@@ -13485,7 +13487,6 @@ outlookr.com
 outlooks.com
 outlooks.de
 outlooks.fr
-outlookt.com
 outlookv.com
 outlookx.com
 outlookx.de
@@ -13716,6 +13717,7 @@ patron.com
 patroon.com
 patrreon.com
 patrron.com
+patrson.com
 patrteon.com
 patrwon.com
 patrzon.com
@@ -13811,7 +13813,6 @@ paypzl.com
 payqal.com
 payral.com
 payreon.com
-paysadecard.com
 paysaf.ecard.com
 paysafacard.com
 paysafcard.com
@@ -13873,6 +13874,7 @@ pennyde.de
 pennye.de
 penops.lol
 peny.de
+peony.de
 pepecoineth.com
 perception.tn
 permatabagus.lol
@@ -13908,6 +13910,8 @@ pi-hole.net.band
 pi-hole.net.beer
 pi-hole.net.bid
 pi-hole.net.bike
+pi-hole.net.black
+pi-hole.net.blue
 pi-hole.net.builders
 pi-hole.net.business
 pi-hole.net.cafe
@@ -13959,6 +13963,7 @@ pi-hole.net.gold
 pi-hole.net.graphics
 pi-hole.net.guide
 pi-hole.net.homes
+pi-hole.net.horse
 pi-hole.net.hr
 pi-hole.net.immobilien
 pi-hole.net.international
@@ -13968,6 +13973,7 @@ pi-hole.net.kitchen
 pi-hole.net.lease
 pi-hole.net.limo
 pi-hole.net.lipsy
+pi-hole.net.live
 pi-hole.net.loans
 pi-hole.net.ltda
 pi-hole.net.lu
@@ -14009,6 +14015,7 @@ pi-hole.net.systems
 pi-hole.net.tattoo
 pi-hole.net.tax
 pi-hole.net.team
+pi-hole.net.tech
 pi-hole.net.theater
 pi-hole.net.tickets
 pi-hole.net.trade
@@ -14018,6 +14025,7 @@ pi-hole.net.vegas
 pi-hole.net.video
 pi-hole.net.vin
 pi-hole.net.vip
+pi-hole.net.vodka
 pi-hole.net.voto
 pi-hole.net.watch
 pi-hole.net.whoswho
@@ -14032,7 +14040,6 @@ pi-hole.vg
 pi-hole.ws
 pi-home.net
 pi-hoole.net
-pi.nterest.de
 piaohua.lol
 piaohua.pics
 piaoxue.pics
@@ -14041,7 +14048,6 @@ pibterest.de
 picgames.com
 picrosoft.com
 pidl.de
-pieferando.de
 piglinbrute.com
 pihnterest.de
 piinterest.de
@@ -14083,7 +14089,6 @@ pinteresdt.de
 pintereset.de
 pinteresr.de
 pinteresst.de
-pinteresta.de
 pinterestb.de
 pinterestd.de
 pinterestde.de
@@ -14093,8 +14098,6 @@ pinterestg.de
 pinteresth.de
 pinterestr.de
 pinterests.de
-pinterestt.de
-pinterestz.de
 pinteresy.de
 pinteresz.de
 pintereszt.de
@@ -14118,8 +14121,6 @@ pintrerest.de
 pintrest.de
 pintrrest.de
 pintterest.de
-pintwerest.de
-pintwrest.de
 pintzerest.de
 pinyerest.de
 pinzerest.de
@@ -14154,14 +14155,12 @@ pluginbo.utique.com
 pluginbotique.com
 pluginbou.tique.com
 pluginbouti.que.com
-pluginboutuque.com
 pluginbutique.com
 plum.lol
 plumbersnearme.lol
 pnd.tl
 pniterest.de
 pnny.de
-pnterest.de
 poateo.de
 pobile.de
 poblox.com
@@ -14272,7 +14271,6 @@ postgo.de
 postio.de
 postmo.de
 postoe.de
-postsupport.net
 postteo.de
 postwo.de
 poszeo.de
@@ -14422,7 +14420,6 @@ qportal.com
 qportal.de
 qpz.lol
 qq777pulsa.lol
-qq789.com.cn
 qqmercy-asli.lol
 qrchive.org
 qsadas.discordmodeclub.repl.co
@@ -14430,7 +14427,6 @@ qsk.com
 quantumhorizonagency.ee
 quellaplentyresolute.com
 quickdapp.net
-qund1.de
 qzaaa.lol
 qzccc.lol
 qzure.com
@@ -14466,7 +14462,6 @@ raja9d.lol
 rajambsgacor.pics
 rajapola-lagi.lol
 ralb.de
-ramanishule.tz
 ramsung.com
 random-mechanics.itch.io
 rangevalidator.web.app
@@ -14645,7 +14640,6 @@ rewew.de
 rewex.de
 rewg.de
 rewi.de
-rewm.de
 rewo.de
 rewr.de
 rews.de
@@ -14690,7 +14684,6 @@ rkblox.com
 rkoblox.com
 rl-garage.online
 rl-garage.space
-rlblox.com
 rlc.de
 rlke.com
 rloblox.com
@@ -14776,12 +14769,10 @@ roblox.aclmh.com
 roblox.ceo
 roblox.com.bi
 roblox.com.bz
-roblox.com.cm
 roblox.com.ge
 roblox.com.kg
 roblox.com.lv
 roblox.com.mg
-roblox.com.ni
 roblox.com.nl
 roblox.com.pt
 roblox.com.py
@@ -14803,6 +14794,7 @@ roblox.pm
 roblox.sn
 roblox.uk.com
 roblox.uno
+roblox.work.gd
 roblox.yt
 roblox0.com
 roblox1.com
@@ -14818,7 +14810,6 @@ robloxcom.com
 robloxcomverification.roverification.repl.co
 robloxd.com
 robloxe.com
-robloxf.com
 robloxi-sites.com
 robloxi.com
 robloxi.com.cm
@@ -14845,7 +14836,6 @@ robloxu.com
 robloxuz.com
 robloxv.co
 robloxv.com
-robloxw.com
 robloxx.com
 robloxx.com.de
 robloxx.com.ge
@@ -14905,7 +14895,6 @@ rogom.com
 rogu.de
 rogue-legacy.com
 rogueleader.org
-rohblox.com
 rohelper.online
 rohlox.com
 roibiox.com
@@ -15011,6 +15000,7 @@ rufu.de
 rune-ston.web.app
 rushingfolder.com
 rust-roulettes.com
+rust-twitch.tv
 rust-us.com
 rust.cash
 rust.gift
@@ -15046,6 +15036,7 @@ s1mple-prizes.net
 s1mplecase-giveaway.com
 s1mplenavicase.com
 s8dbth4omg.lol
+s9rxpeps4g.lol
 sa.msung.com
 sa.turn.de
 saamsung.com
@@ -15062,6 +15053,7 @@ saham4dg.lol
 sahamtogelz.lol
 sahoo.com
 sahoo.de
+sajsung.com
 sak.com
 sakmsung.com
 saksung.com
@@ -15147,7 +15139,6 @@ samsunhg.com
 samsunjg.com
 samsunmg.com
 samsunng.com
-samsunq.com
 samsunt.com
 samsunv.com
 samsunw.com
@@ -15190,7 +15181,6 @@ sapple.com
 saqmsung.com
 sar.at
 sarkasse.de
-sarnsung.com
 sarnsunq.com
 sarobux.com
 sarturn.de
@@ -15264,6 +15254,7 @@ sazurn.de
 sbauthorization.net
 sbauthorization.ru
 sbay.de
+sbm0x9q69g.lol
 sbmasters.online
 sbout.com
 scan-orbiter.finance
@@ -15280,7 +15271,6 @@ scteamcommunity.com
 sdeka.de
 sdf.de
 sdi5ljir0g.lol
-sdidas.com
 sdidas.de
 sdiscord.com
 se.vdesk.at
@@ -15366,7 +15356,6 @@ shatsapp.com
 she.de
 sheethecert.lol
 shemalecommunity.eu
-shewantsumuch.com
 shhh.lol
 shibiecoin.io
 shl.com
@@ -15405,7 +15394,6 @@ siritotoz.lol
 siscord.com
 sisyphean-milligram.000webhostapp.com
 site-roblox.co
-site-roblox.net
 sitemap.onedrrive.com
 sites-robiox.com
 sites.pics
@@ -15424,7 +15412,6 @@ skinbid.gr.com
 skinboxs.com
 skindear.com
 skinport.co.cm
-skirll.com
 sklns-cs2-case.ru
 skr.ill.com
 skrell.com
@@ -15698,7 +15685,6 @@ staemconmuntlyy.com
 staemcornmunitny.ru
 staemcornmunity.ru
 staemporewed.com
-staemscomnnunitly.com
 staencommuninty.ru
 staerncommunlty.ru
 staerncornmunity.ru
@@ -15730,7 +15716,6 @@ steacommunity.com
 steacomuninty.com
 steacomunnity.com
 steaemcommunitys.com
-steaemcommuniuty.com
 steaemcormmunity.com
 stealer.re
 steam-50gift.com
@@ -15805,13 +15790,14 @@ steamcommlunlty.com
 steamcommmumity.com
 steamcommmunity.com
 steamcommnety.com
+steamcommnitly.ru
 steamcommnity.com
 steamcommnnlty.com
 steamcommnnunity.com
 steamcommnuiety.com
+steamcommnuiity.com
 steamcommnuily.com
 steamcommnuitu.ru
-steamcommnuity.com
 steamcommnunity.com
 steamcommnunjity.com
 steamcommnunlity.com
@@ -15944,6 +15930,7 @@ steamcommunltys.ru
 steamcommunlyt.com
 steamcommunmitiy.com
 steamcommunmity.com
+steamcommunmlity.com
 steamcommunnili.ru
 steamcommunnitliy.com
 steamcommunnitlly.com
@@ -15969,7 +15956,6 @@ steamcommunuety.ru
 steamcommunuitty.com
 steamcommunulty.com
 steamcommununitly.com
-steamcommunytu.ru
 steamcommuqnity.com
 steamcommurliy.ru
 steamcommurnity.ru
@@ -16035,6 +16021,7 @@ steamcomunitily.com
 steamcomunituy.ru
 steamcomunity.aiq.ru
 steamcomunity.com
+steamcomunity.duckdns.org
 steamcomunlity.ru
 steamcomunlty.com
 steamcomunmity.com
@@ -16057,7 +16044,6 @@ steamconmnmunity.com
 steamconmnuity.ru
 steamconmnunitiy.com
 steamconmnunlty.com
-steamconmumnity.com
 steamconmuniqy.com
 steamconmuniry.com
 steamconmuniti.ru
@@ -16073,7 +16059,6 @@ steamconnnnunilty.com
 steamconnumity.com
 steamconnunity.com
 steamconnunlty.com
-steamconnunnity.com
 steamconrmunity.ru
 steamconumunity.ru
 steamconynniuyty.net.ru
@@ -16113,7 +16098,7 @@ steammcomynity.com
 steammconnmumiity.ru
 steammpowered.com
 steamncomminity.ru
-steamncommnutiy.com
+steamncommuinty.com
 steamncommuniity.ru
 steamncommunily.com
 steamncommuniry.ru
@@ -16152,6 +16137,7 @@ steampower.co
 steampower.de
 steampower.space
 steampower3d.com
+steampower4ed.com
 steampowerad.com
 steampowerd.com
 steampowerde.com
@@ -16248,11 +16234,11 @@ steanmccommunity.com
 steanmcommuniry.com
 steanmcommunity.ru
 steanmcommunluty.ru
+steanmcommunrty.ru
 steanmcomnunilty.com
 steanmcomnuninty.com
 steanmcomnunlty.com
 steanmconmnunity.com
-steanmconmunnity.com
 steanmconumity.top
 steanncomminity.ru
 steanncommunity.com
@@ -16304,6 +16290,8 @@ stearncomnunity.ru
 stearncomrnunilly.ru
 stearncomrnunity.ru
 stearncomrnunity.space
+stearncomrunity.com
+stearncomunitiy.ru
 stearncomunitly.ru
 stearncomunitty.ru
 stearnconmunitty.ru
@@ -16362,7 +16350,6 @@ stemcommunlty.com
 stemcommunlty.ru
 stemcommunnity.ru
 stemcommunntly.com
-stemcommuntty.com
 stemcommunyty.ru
 stemcommurity.ru
 stemcommuunnity.ru
@@ -16515,7 +16502,6 @@ sturn.de
 stwampowered.com
 stylestitchapparel.christmas
 submarine.od.ua
-success-news.net
 sudible.de
 suggestive.com
 summisolana.lol
@@ -16561,29 +16547,35 @@ szamsung.com
 szmsung.com
 szure.com
 t--online.de
+t-0nline.de
 t-9nline.de
 t-9online.de
 t-ionline.de
 t-k.de
+t-lnline.de
 t-lonline.de
 t-me-sexgirls.ru
+t-nline.de
 t-o.nline.de
 t-o0nline.de
+t-obline.de
 t-ohline.de
 t-ohnline.de
 t-oinline.de
 t-ojline.de
 t-ojnline.de
-t-oline.de
 t-olline.de
 t-olnine.de
 t-omlime.de
 t-omnline.de
 t-on-line.de
 t-onbline.de
+t-onhline.de
 t-onine.de
+t-onkine.de
 t-onkline.de
 t-onl.ine.de
+t-onl8ne.de
 t-onl9ne.de
 t-onlene.de
 t-onli8ne.de
@@ -16592,16 +16584,19 @@ t-onlibe.de
 t-onlibne.de
 t-onlie.de
 t-onlien.de
+t-onlihe.de
 t-onlihne.de
+t-onlije.de
 t-onlijne.de
 t-onlikne.de
+t-onlime.de
 t-onlimne.de
 t-onlin.de
+t-onlin3.de
 t-onlin4.de
 t-onlinbe.de
 t-onlind.de
 t-online-de.com
-t-online1.de
 t-online3.de
 t-online4.de
 t-onlined.de
@@ -16609,25 +16604,31 @@ t-onlinede.de
 t-onlinee.de
 t-onlinel.de
 t-onlinen.de
+t-onlines.de
 t-onlinew.de
 t-onlinhe.de
 t-onlini.de
 t-onlinje.de
 t-onlinme.de
+t-onlinne.de
 t-onlinr.de
 t-onlins.de
+t-onlinw.de
 t-onlione.de
 t-onliune.de
+t-onljne.de
 t-onlkine.de
 t-onlkne.de
 t-onlline.de
 t-onllne.de
 t-onlne.de
+t-onlnie.de
 t-onloine.de
 t-onlone.de
 t-onluine.de
 t-onlune.de
 t-onmline.de
+t-onnine.de
 t-onnline.de
 t-onoine.de
 t-ooline.de
@@ -16636,6 +16637,8 @@ t-opnline.de
 t-orline.de
 t-pnline.de
 t-ponline.de
+t-portal.com
+t-portal.de
 t-unline.de
 t.elekom.com
 t.halia.de
@@ -16653,6 +16656,7 @@ t22.game
 t2itch.tv
 t2witter.com
 t3itter.com
+t3lekom.de
 t4kmaub3rl4lu.lol
 t4lekom.de
 t8iktok.com
@@ -16685,6 +16689,7 @@ tdf.de
 tdlekom.de
 te-lekom.de
 te.lekom.com
+te1ekom.de
 team-navi.com
 teamcommunity.com
 teampowered.com
@@ -16693,6 +16698,7 @@ techinnsrl.com
 tedex.com
 teecanvas.lol
 teekom.com
+teekom.de
 teelekom.de
 teelkom.de
 teencontent.xyz
@@ -16712,20 +16718,22 @@ tela-discord.arturfofu.repl.co
 tela-discord.duxxkkkk.repl.co
 telakom.com
 telakom.de
-telckom.de
 teldekom.de
 teldkom.de
 tele-kom.com
 tele-kom.de
 tele.kom.com
+telecom.com
 telecom.de
 teleekom.com
 teleekom.de
 teleikom.de
+teleiom.de
 telejkom.de
 telejom.de
 telek.om.de
 telek0m.com
+telek0m.de
 telekam.com
 telekam.de
 telekim.com
@@ -16734,50 +16742,61 @@ telekiom.de
 telekjom.de
 telekkm.de
 telekkom.com
-telekkom.de
 teleklm.de
 teleklom.de
 telekm.com
 telekmom.de
 teleko.de
-teleko0m.de
 telekoim.de
 telekok.de
 telekokm.de
 telekol.com
 telekolm.de
+telekom-de.com
 telekom1.de
 telekom3.com
 telekom3.de
-telekom4.de
 telekom5.com
 telekomd.de
 telekome.com
 telekome.de
 telekomi.com
+telekomk.de
 telekomm.com
+telekomm.de
 telekomp.com
 telekoms.com
+telekoms.de
 telekomx.com
 telekon.com
 telekon.de
 telekonm.de
 telekoom.de
 telekop.de
+telekopm.de
 telekor.com
 telekor.de
 telekorn.com
 telekorn.de
+telekpm.de
+telekpom.de
 telelcom.de
+telelkom.de
+telelom.de
 telemkom.de
 telemom.com
 telemom.de
+teleokm.de
+teleokom.de
 teleom.com
+teleom.de
 teleoom.de
 telepremium.online
 telerkom.de
 telewkom.de
 telikom.de
+telkekom.de
+telkeom.de
 telkom.com
 telkom.de
 tellekom.com
@@ -16786,14 +16805,17 @@ telmekom.com
 telmekom.de
 teloekom.de
 telokom.com
+telokom.de
 telrekom.de
 telrkom.com
 telrkom.de
 telskom.de
 telwekom.de
+telwkom.de
 tenekom.com
 tenmadesewn.pics
 tenny.de
+teoekom.de
 teom.de
 tepekom.de
 terlekom.de
@@ -17064,6 +17086,7 @@ tkl.de
 tkm.de
 tkn.de
 tko.de
+tkom.de
 tkp.de
 tkq.de
 tkr.de
@@ -17079,6 +17102,8 @@ tkz.de
 tl.de
 tlc.de
 tle.de
+tleekom.de
+tlekom.de
 tlik.de
 tliktok.com
 tlkt0k.com
@@ -17116,7 +17141,6 @@ token-port3.pages.dev
 tokens-collab.land
 tokens-holder.web.app
 tokens-holders.web.app
-toko56loginalternatif.lol
 tokom.de
 toktok.com
 tolm.de
@@ -17206,6 +17230,7 @@ torprokect.org
 torprpject.org
 torries.de
 torrproject.org
+tosproject.org
 totalav.com
 totaltopposts.com
 toto.de
@@ -17264,6 +17289,7 @@ tsy.com
 tt-online.de
 ttdy.pics
 ttelekom.com
+ttelekom.de
 tthalia.de
 ttiktok.com
 ttk.de
@@ -17393,6 +17419,7 @@ twitcvh.tv
 twitcy.tv
 twitder.com
 twitdh.tv
+twiter.com
 twitetr.com
 twitfer.com
 twitfh.tv
@@ -17451,7 +17478,6 @@ twitters.com
 twittert.com
 twitterw.com
 twitterx.com
-twittery.com
 twitterz.com
 twittes.com
 twittet.com
@@ -17501,7 +17527,7 @@ twltchcs.tv
 twltchcs2.tv
 twltchplay.com
 twltchplays.com
-twltchs-cs2.com
+twltchs-cs.tv
 twltchs-cs2.tv
 twltchs-earns.com
 twltchs-stream.com
@@ -17623,6 +17649,7 @@ utama88m.lol
 utanvirus.se
 uterex.com
 utlook.com
+utlook.de
 utsy.com
 utto.de
 uutlook.com
@@ -17651,7 +17678,6 @@ valogym.com
 valorant-asia.com
 valorant-bundle.lol
 valorant-cool.com
-valorant-drop.com
 valorant-event.com
 valorant-forever.com
 valorant-gamers.com
@@ -17970,6 +17996,7 @@ volkssbank.de
 vollksbank.de
 vollsbank.de
 vologet.com
+vongstar.de
 vonrad.de
 voodafone.co.uk
 voodafone.com
@@ -18011,6 +18038,7 @@ vvindovvs.com
 vvix.com
 vvlkipedia.org
 vvlx.com
+vvodafone.co.uk
 vvvv-roblox.com
 vvvw-robiox.com
 vvww-roblox.com
@@ -18465,7 +18493,6 @@ wikx.com
 wikyleaks.org
 wilay.com
 wilcy.com
-wildey.com
 wildhaben.at
 wildsex.lol
 wildy.com
@@ -18510,13 +18537,13 @@ willhabe.at
 willhabeb.at
 willhabem.at
 willhabend.at
-willhabens.at
 willhabern.at
 willhabn.at
 willhabne.at
 willhabrn.at
 willhabwn.at
 willhaen.at
+willhahen.at
 willhanen.at
 willhaven.at
 willhben.at
@@ -18530,6 +18557,7 @@ wiloy.com
 wilrey.com
 wilry.com
 wilsy.com
+wilwy.com
 wilye.com
 wilzey.com
 wilzy.com
@@ -18573,11 +18601,13 @@ windowq.com
 windowr.com
 windowsa.com
 windowsa.net
+windowsb.com
 windowsc.com
 windowse.com
 windowserror.lol
 windowsf.com
 windowsj.com
+windowsk.com
 windowsm.com
 windowsn.com
 windowsnet.net
@@ -18733,6 +18763,7 @@ woley.com
 wolksbank.de
 wolrdpress.com
 wondows.com
+wood-building.kz
 woogle.com
 woogle.de
 woordpress.com
@@ -18903,7 +18934,6 @@ www-dhl.de
 www-dkb.de
 www-dropbox.com
 www-haspa.de
-www-iroblox.com
 www-lidl.de
 www-linkedin.com
 www-live.com
@@ -19098,7 +19128,6 @@ xn--binane-71a.com
 xn--bking-281ba.com
 xn--bl-eka.de
 xn--bnace-zsa4173c.com
-xn--bnanc-tsa1254c.com
 xn--bnanc-zsa4154c.com
 xn--bnance-bl8b.com
 xn--bnance-iwa.com
@@ -19206,6 +19235,7 @@ xn--fcebook-hwa.com
 xn--fcebook-pwa.com
 xn--fdex-5oa.com
 xn--fedx-npa.com
+xn--ffce-4qa07a.com
 xn--ffice-iua.com
 xn--fverr-zsa.com
 xn--gebh-2ra.renfrei.de
@@ -19378,6 +19408,7 @@ xn--oinbase-l5a.com
 xn--oinbase-mzb.com
 xn--ol-oia.com
 xn--ol-uia.com
+xn--ongstar-15a.de
 xn--ooge-21a88g.com
 xn--oogl-yva54j.com
 xn--oogle-60a.com
@@ -19507,6 +19538,7 @@ xn--telekm-0xa.de
 xn--telkom-k4a.com
 xn--telkom-k4a.de
 xn--tktk-7qa56a.com
+xn--tktok-cta.com
 xn--tktok-zsa.com
 xn--tlekom-i4a.com
 xn--tlekom-i4a.de
@@ -19725,10 +19757,10 @@ yahuoo.com
 yahyoo.com
 yahyoo.de
 yahzoo.com
+yahzoo.de
 yaihoo.com
 yaioo.com
 yajdex.ru
-yajhoo.de
 yajndex.ru
 yajoo.com
 yajoo.de
@@ -19865,7 +19897,6 @@ yhatgpt.com
 yhoo.com
 yhoo.de
 yihoo.com
-yiktok.com
 yindex.ru
 yinghuady.pics
 yinghuayy.pics
@@ -19895,7 +19926,6 @@ yo7tube.com
 yo7utube.com
 yo8tube.com
 yo8utube.com
-yo9utube.com
 yoatube.com
 yobit.net
 yoetube.com
@@ -19937,6 +19967,7 @@ youfube.com
 yougtube.com
 yougube.com
 youitu.be
+youneedcommunication.ve
 youngtaktik88mania.lol
 youpube.com
 yourbest-dating33.life
@@ -20054,12 +20085,14 @@ ysndex.ru
 ystv.pics
 yt118.com
 yuhoo.com
+yuhoo.de
 yundex.ru
 yuotu.be
 yuotube.com
 yuriblog.ru
 yutu.be
 yuutube.com
+yuwshj-wl8lr.pics
 ywahoo.com
 ywandex.ru
 ywhoo.com
