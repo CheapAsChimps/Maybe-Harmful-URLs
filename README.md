@@ -1,5 +1,7 @@
 # Maybe-Harmful-URLs
 
+NO LONGER BEING UPDATED AS OF 30 JAN 2025!!
+
 These are a collection of links that could potentially lead to browser pop-ups or phishing websites.
 
 Updated regularly with dead links removed.
